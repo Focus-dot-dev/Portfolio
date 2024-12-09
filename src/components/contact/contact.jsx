@@ -3,7 +3,7 @@ import React from 'react'
 import { Toaster, toast } from 'sonner'
 import axios from 'axios'
 import "./contact.css"
-import { Input, Modal } from 'antd'
+import { Modal } from 'antd'
 
 const Contact = () => {
 
